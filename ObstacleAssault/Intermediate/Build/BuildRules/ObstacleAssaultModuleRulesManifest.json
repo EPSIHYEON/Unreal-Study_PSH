@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\psihy\\Documents\\GITHUB\\PSH_Unreal-Study\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
+		"C:\\Users\\psihy\\Documents\\GITHUB\\PSH_Unreal-Study\\ObstacleAssault\\Source\\ObstacleAssault.Target.cs",
+		"C:\\Users\\psihy\\Documents\\GITHUB\\PSH_Unreal-Study\\ObstacleAssault\\Source\\ObstacleAssaultEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
