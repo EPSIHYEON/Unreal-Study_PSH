@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\psihy\\documents\\github\\psh_unreal-study\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\psihy\\documents\\github\\psh_unreal-study\\cryptraider\\intermediate\\build\\win64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\psihy\\documents\\github\\psh_unreal-study\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "c:\\users\\psihy\\documents\\github\\psh_unreal-study\\cryptraider\\source\\cryptraider\\tp_weaponcomponent.h",
+            "c:\\users\\psihy\\documents\\github\\psh_unreal-study\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
