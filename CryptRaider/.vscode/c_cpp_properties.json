@@ -4,7 +4,7 @@
             "name": "CryptRaiderEditor Editor Win64 Development (CryptRaider)",
             "intelliSenseMode": "msvc-x64",
             "compileCommands": [
-                "C:\\Users\\psihy\\Documents\\GITHUB\\PSH_Unreal-Study\\CryptRaider\\.vscode\\compileCommands_CryptRaider.json"
+                "C:\\Users\\psihy\\Documents\\GITHUB\\Unreal-Study_PSH\\CryptRaider\\.vscode\\compileCommands_CryptRaider.json"
             ],
             "cStandard": "c17",
             "cppStandard": "c++17"
@@ -13,7 +13,7 @@
             "name": "Win32",
             "intelliSenseMode": "msvc-x64",
             "compileCommands": [
-                "C:\\Users\\psihy\\Documents\\GITHUB\\PSH_Unreal-Study\\CryptRaider\\.vscode\\compileCommands_Default.json"
+                "C:\\Users\\psihy\\Documents\\GITHUB\\Unreal-Study_PSH\\CryptRaider\\.vscode\\compileCommands_Default.json"
             ],
             "cStandard": "c17",
             "cppStandard": "c++17"

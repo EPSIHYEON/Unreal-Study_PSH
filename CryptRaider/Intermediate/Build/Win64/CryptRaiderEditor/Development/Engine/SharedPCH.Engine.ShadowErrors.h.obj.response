@@ -1,4 +1,4 @@
-C:\Users\psihy\Documents\GITHUB\PSH_Unreal-Study\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp
+C:\Users\psihy\Documents\GITHUB\Unreal-Study_PSH\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
 /I Runtime
@@ -275,10 +275,10 @@ C:\Users\psihy\Documents\GITHUB\PSH_Unreal-Study\CryptRaider\Intermediate\Build\
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
-/Yc"C:\Users\psihy\Documents\GITHUB\PSH_Unreal-Study\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\psihy\Documents\GITHUB\PSH_Unreal-Study\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\Users\psihy\Documents\GITHUB\PSH_Unreal-Study\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-/sourceDependencies C:\Users\psihy\Documents\GITHUB\PSH_Unreal-Study\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.json
+/Yc"C:\Users\psihy\Documents\GITHUB\Unreal-Study_PSH\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\psihy\Documents\GITHUB\Unreal-Study_PSH\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Users\psihy\Documents\GITHUB\Unreal-Study_PSH\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+/sourceDependencies C:\Users\psihy\Documents\GITHUB\Unreal-Study_PSH\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.json
 /Zc:inline
 /nologo
 /Oi

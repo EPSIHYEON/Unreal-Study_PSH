@@ -1,4 +1,4 @@
-C:\Users\psihy\Documents\GITHUB\PSH_Unreal-Study\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Inc\CryptRaider\CryptRaiderCharacter.gen.cpp
+C:\Users\psihy\Documents\GITHUB\Unreal-Study_PSH\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Inc\CryptRaider\CryptRaiderCharacter.gen.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
 /I Runtime
@@ -251,8 +251,8 @@ C:\Users\psihy\Documents\GITHUB\PSH_Unreal-Study\CryptRaider\Intermediate\Build\
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
-/I C:\Users\psihy\Documents\GITHUB\PSH_Unreal-Study\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Inc\CryptRaider
-/I C:\Users\psihy\Documents\GITHUB\PSH_Unreal-Study\CryptRaider\Source
+/I C:\Users\psihy\Documents\GITHUB\Unreal-Study_PSH\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Inc\CryptRaider
+/I C:\Users\psihy\Documents\GITHUB\Unreal-Study_PSH\CryptRaider\Source
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MRMesh
@@ -277,12 +277,12 @@ C:\Users\psihy\Documents\GITHUB\PSH_Unreal-Study\CryptRaider\Intermediate\Build\
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
-/FI"C:\Users\psihy\Documents\GITHUB\PSH_Unreal-Study\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\Users\psihy\Documents\GITHUB\PSH_Unreal-Study\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Development\CryptRaider\Definitions.CryptRaider.h"
-/Yu"C:\Users\psihy\Documents\GITHUB\PSH_Unreal-Study\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\psihy\Documents\GITHUB\PSH_Unreal-Study\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\Users\psihy\Documents\GITHUB\PSH_Unreal-Study\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Development\CryptRaider\CryptRaiderCharacter.gen.cpp.obj"
-/sourceDependencies C:\Users\psihy\Documents\GITHUB\PSH_Unreal-Study\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Development\CryptRaider\CryptRaiderCharacter.gen.cpp.json
+/FI"C:\Users\psihy\Documents\GITHUB\Unreal-Study_PSH\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Users\psihy\Documents\GITHUB\Unreal-Study_PSH\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Development\CryptRaider\Definitions.CryptRaider.h"
+/Yu"C:\Users\psihy\Documents\GITHUB\Unreal-Study_PSH\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\psihy\Documents\GITHUB\Unreal-Study_PSH\CryptRaider\Intermediate\Build\Win64\CryptRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Users\psihy\Documents\GITHUB\Unreal-Study_PSH\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Development\CryptRaider\CryptRaiderCharacter.gen.cpp.obj"
+/sourceDependencies C:\Users\psihy\Documents\GITHUB\Unreal-Study_PSH\CryptRaider\Intermediate\Build\Win64\UnrealEditor\Development\CryptRaider\CryptRaiderCharacter.gen.cpp.json
 /Zc:inline
 /nologo
 /Oi
