@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\psihy\\documents\\github\\unreal-study_psh\\cryptraider\\source\\cryptraider\\triggercomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\psihy\\documents\\github\\unreal-study_psh\\cryptraider\\intermediate\\build\\win64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\psihy\\documents\\github\\unreal-study_psh\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "c:\\users\\psihy\\documents\\github\\unreal-study_psh\\cryptraider\\source\\cryptraider\\triggercomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\boxcomponent.generated.h",
+            "c:\\users\\psihy\\documents\\github\\unreal-study_psh\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\triggercomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
