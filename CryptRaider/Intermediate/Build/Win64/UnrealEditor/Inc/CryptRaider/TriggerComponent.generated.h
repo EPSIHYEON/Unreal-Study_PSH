@@ -8,15 +8,24 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UMover;
 #ifdef CRYPTRAIDER_TriggerComponent_generated_h
 #error "TriggerComponent.generated.h already included, missing '#pragma once' in TriggerComponent.h"
 #endif
 #define CRYPTRAIDER_TriggerComponent_generated_h
 
-#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_18_SPARSE_DATA
-#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_18_RPC_WRAPPERS
-#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_18_RPC_WRAPPERS_NO_PURE_DECLS
-#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_18_INCLASS_NO_PURE_DECLS \
+#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_19_SPARSE_DATA
+#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_19_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execSetMover);
+
+
+#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execSetMover);
+
+
+#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_19_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUTriggerComponent(); \
 	friend struct Z_Construct_UClass_UTriggerComponent_Statics; \
@@ -25,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(UTriggerComponent)
 
 
-#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_18_INCLASS \
+#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_19_INCLASS \
 private: \
 	static void StaticRegisterNativesUTriggerComponent(); \
 	friend struct Z_Construct_UClass_UTriggerComponent_Statics; \
@@ -34,7 +43,7 @@ public: \
 	DECLARE_SERIALIZER(UTriggerComponent)
 
 
-#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_18_STANDARD_CONSTRUCTORS \
+#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_19_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UTriggerComponent(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UTriggerComponent) \
@@ -47,7 +56,7 @@ private: \
 public:
 
 
-#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_18_ENHANCED_CONSTRUCTORS \
+#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UTriggerComponent(UTriggerComponent&&); \
@@ -58,25 +67,25 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UTriggerComponent)
 
 
-#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_15_PROLOG
-#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_18_GENERATED_BODY_LEGACY \
+#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_16_PROLOG
+#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_19_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_18_SPARSE_DATA \
-	FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_18_RPC_WRAPPERS \
-	FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_18_INCLASS \
-	FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_18_STANDARD_CONSTRUCTORS \
+	FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_19_SPARSE_DATA \
+	FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_19_RPC_WRAPPERS \
+	FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_19_INCLASS \
+	FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_19_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_18_GENERATED_BODY \
+#define FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_19_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_18_SPARSE_DATA \
-	FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_18_INCLASS_NO_PURE_DECLS \
-	FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_18_ENHANCED_CONSTRUCTORS \
+	FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_19_SPARSE_DATA \
+	FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_19_INCLASS_NO_PURE_DECLS \
+	FID_CryptRaider_Source_CryptRaider_TriggerComponent_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

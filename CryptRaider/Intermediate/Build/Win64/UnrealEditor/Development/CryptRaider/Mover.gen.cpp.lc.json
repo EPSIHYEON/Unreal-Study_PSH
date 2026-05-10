@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\psihy\\documents\\github\\unreal-study_psh\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\mover.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\psihy\\documents\\github\\unreal-study_psh\\cryptraider\\intermediate\\build\\win64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\psihy\\documents\\github\\unreal-study_psh\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "c:\\users\\psihy\\documents\\github\\unreal-study_psh\\cryptraider\\source\\cryptraider\\mover.h",
+            "c:\\users\\psihy\\documents\\github\\unreal-study_psh\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\mover.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
